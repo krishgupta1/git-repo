@@ -1,4 +1,12 @@
+// Version 1
+
 ls :- it is used to list files and directories
 
 
 cd :- it is used for switching betweenn the directories
+
+// Version 2
+
+git config --global user.name "Krish"  :-  to config the name
+
+git config --global user.email "krishgupta11110@gmail.com"  :-  to config the email
